@@ -9,7 +9,11 @@
 <br>
 <br>
 
-# འབྲི་གུང་གི་འཛིན་གྲྭ་ཁག
+# iframe གི་ཨང་བརྡ།
+
+```
+<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0024001&origin=website.com" width="100%" height="600"></iframe>
+```
 
 ༡
 

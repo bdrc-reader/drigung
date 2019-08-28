@@ -104,7 +104,7 @@
 ## ཀ ད་སྔ་བསྒྲིགས་ཟིན་པའི་དཔེ་མཚོན།
 
 <br>
-[དྲ་ཐག་འདིར་བསྣུན་ཏེ་དཔེ་མཚོན་ལ་གཟིགས།](https://github.com/bdrc-reader/drigung/blob/master/karchak/%E0%BD%96%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%9F%E0%BD%B2%E0%BD%93%E0%BC%8B%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%98%E0%BD%B2%E0%BC%8B%E0%BD%95%E0%BE%B1%E0%BD%B2%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BC%8B%E0%BD%86%E0%BC%8D.tsv) 
+[དྲ་ཐག་འདིར་བསྣུན་ཏེ་དཔེ་མཚོན་ལ་གཟིགས།](https://github.com/bdrc-reader/drigung/blob/master/karchak/%E0%BD%96%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%9F%E0%BD%B2%E0%BD%93%E0%BC%8B%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%98%E0%BD%B2%E0%BC%8B%E0%BD%95%E0%BE%B1%E0%BD%B2%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BC%8B%E0%BD%86%E0%BC%8D.tsv)
 
 དང་པོ་དཔེ་མཚོན་འདི་སྒོ་ཕྱེས་ཏེ་ངོ་བཤུ་བྱས་ནས་Excel ནང་ཕབ་དགོས། Excel སྒྲིག་སྟེགས་རེའུ་མིག་ནང་བསྐྱར་སྒྲིག་དང་ཡང་ན་ཁ་གསབ་གང་བྱེད་དགོས་ཀྱང་སྒྲིག་སྦྱོར་ལེགས་པོ་བྱས་རྗེས། རང་འཇགས་ཕྱིར་ངོ་བཤུ་བྱས་ཏེ་དྲ་ཚིགས་འདིའི་སྟེགས་བུའི་ནང་ལྡུག་དགོས། Excel སྒྲིག་སྟེགས་རེའུ་མིག་ནང་སྒྲིག་ཚུལ་ལ་གཟིགས།
 <br>
