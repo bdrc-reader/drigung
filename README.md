@@ -116,14 +116,14 @@
 
 <br>
 སྒོ་ཕྱེས་རྗེས་ཐེབས་གཞོང་སྒང་གི་ ctrl + A གཉིས་མཉམ་གནོན་བྱས་ན་སྟེགས་བུའི་ནང་གི་ཡིག་ཆ་ཚང་མ་འདེམ་ཐུབ། དེ་ནས་ངོ་བཤུ་ copy བྱས་ཏེ་ཁྱེད་ཀྱི་གློག་ཀླད་ནང་གི་Excel སྒྲིག་སྟེགས་རེའུ་མིག་ནང་ཕབས་ནས་སྒྲིག་སྦྱོར་བྱོས།
-
 <br>
+
 ![images](https://github.com/bdrc-reader/drigung/blob/master/docs/img/13.png)
 
 <br>
 Excel སྒྲིག་སྟེགས་རེའུ་མིག་ནང་སྒྲིག་བཞིན་པའི་དཔེ་རིས་ལ་གཟིགས། 
-
 <br>
+
 ![images](https://github.com/bdrc-reader/drigung/blob/master/docs/img/09.png)
 
 <br>
