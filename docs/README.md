@@ -4,7 +4,7 @@
 
 # འབྲི་གུང་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/kagyu-college/master/docs/img/kagyu-college.jpg)
+![image alt text](https://github.com/bdrc-reader/kagyu-college/blob/master/docs/img/drigung.jpg)
 
 <br>
 # འབྲི་གུང་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་ངོ་སྤྲོད།
