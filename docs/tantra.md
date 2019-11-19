@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://bdrc-reader.github.io/drigung/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/drigung/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/drigung/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/drigung/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/drigung/doncha">འདོན་ཆའི་སྐོར།</a> • <span>སྔགས་ཀྱི་སྐོར།</span> •  <a href="https://bdrc-reader.github.io/drigung/natsok">སྣ་ཚོགས།</a></p>
+  <a href="https://bdrc-reader.github.io/kagyu-college/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/kagyu-college/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/kagyu-college/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/kagyu-college/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/kagyu-college/doncha">འདོན་ཆའི་སྐོར།</a> • <span>སྔགས་ཀྱི་སྐོར།</span> •  <a href="https://bdrc-reader.github.io/kagyu-college/natsok">སྣ་ཚོགས།</a></p>
 
 
 # འབྲི་གུང་གི་སྔགས་སྐོར་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།

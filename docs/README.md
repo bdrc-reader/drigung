@@ -1,10 +1,10 @@
 <p align="center">
-  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/drigung/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/drigung/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/drigung/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/drigung/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/drigung/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/drigung/natsok">སྣ་ཚོགས།</a></p>
+  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/kagyu-college/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/kagyu-college/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/kagyu-college/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/kagyu-college/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/kagyu-college/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/kagyu-college/natsok">སྣ་ཚོགས།</a></p>
 
 
 # འབྲི་གུང་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/drigung/master/docs/img/drigung.jpg)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/kagyu-college/master/docs/img/kagyu-college.jpg)
 
 <br>
 # འབྲི་གུང་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་ངོ་སྤྲོད།
@@ -12,11 +12,11 @@
 ངོ་སྤྲོད་འབྲི་དགོས།
 <br>
 
-### ༡ འབྲི་གུང་བྱང་ཆུབ་ཆོས་གླིང་གི་དྲ་ཚིགས་ལ་གཟིགས། [དྲ་ཚིགས།](https://bdrc-reader.github.io/drigung/)
+### ༡ འབྲི་གུང་བྱང་ཆུབ་ཆོས་གླིང་གི་དྲ་ཚིགས་ལ་གཟིགས། [དྲ་ཚིགས།](https://bdrc-reader.github.io/kagyu-college/)
 
-### ༢ དྲ་ཚིགས་འདིའི་ནང་རྩོམ་སྒྲིག་བྱེད་སྟངས། [སློབ་ཚན།](https://github.com/bdrc-reader/drigung#%E0%BD%A2%E0%BE%A9%E0%BD%BC%E0%BD%98%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%96%E0%BE%B1%E0%BD%BA%E0%BD%91%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BD%A6%E0%BE%B3%E0%BD%BC%E0%BD%96%E0%BD%9A%E0%BD%93)
+### ༢ དྲ་ཚིགས་འདིའི་ནང་རྩོམ་སྒྲིག་བྱེད་སྟངས། [སློབ་ཚན།](https://github.com/bdrc-reader/kagyu-college#%E0%BD%A2%E0%BE%A9%E0%BD%BC%E0%BD%98%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%96%E0%BE%B1%E0%BD%BA%E0%BD%91%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BD%A6%E0%BE%B3%E0%BD%BC%E0%BD%96%E0%BD%9A%E0%BD%93)
 
-### ༣ རྩོམ་སྒྲིག་བྱས་ཟིན་པའི་མ་ཕྱིའི་དཔེ་མཚོན་ལ་གཟིགས། [དཀར་ཆག](https://github.com/bdrc-reader/drigung/blob/master/karchak/W1ERI0024.tsv)
+### ༣ རྩོམ་སྒྲིག་བྱས་ཟིན་པའི་མ་ཕྱིའི་དཔེ་མཚོན་ལ་གཟིགས། [དཀར་ཆག](https://github.com/bdrc-reader/kagyu-college/blob/master/karchak/W1ERI0024.tsv)
 
 <br>
 # དཔེ་ཀློག་སྒེའུ་ཁུང་གི་ངོ་སྤྲོད་མདོར་བསྡུས།
